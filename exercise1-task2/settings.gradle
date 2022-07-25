@@ -1,0 +1,2 @@
+include 'desktop', 'android', 'ios', 'core'
+rootProject.name = "exercise1-task2"
